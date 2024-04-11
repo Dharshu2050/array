@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class largest {
+public class basic {
 
     public static void main(String[] args) {
         int arr[]=new int[10];
